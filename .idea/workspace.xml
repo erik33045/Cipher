@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75d11765-427e-4854-a74a-56d33822fa88" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\compiler.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\modules.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\HendricE1\IdeaProjects\Cypher\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="Cypher.iws" />
@@ -704,12 +697,17 @@
       <changelist id="75d11765-427e-4854-a74a-56d33822fa88" name="Default" comment="" />
       <created>1390405783773</created>
       <updated>1390405783773</updated>
-      <workItem from="1390405786233" duration="9950000" />
+      <workItem from="1390405786233" duration="10000000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;">
+      <created>1390420221917</created>
+      <updated>1390420221917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9950000" />
+    <option name="totallyTimeSpent" value="10000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1184" extended-state="6" />
@@ -755,6 +753,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
